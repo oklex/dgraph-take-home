@@ -1,0 +1,38 @@
+#home-hero {
+    height: 704px;
+    background: linear-gradient(
+      90deg,
+      rgba(255, 66, 0, 0.8) 0%,
+      rgba(229, 6, 149, 0.8) 100%
+    );
+  }
+  
+  #home-hero-overlay-container {
+    position: absolute;
+    right: 0;
+  }
+  
+  #home-hero-overlay {
+    height: 704px !important;
+    object-fit: cover;
+    /* background: url("/img/home-mask.svg"); */
+  }
+  
+.home-text-box {
+    background-color: white;
+    width: 706px;
+    height: 562px;
+    padding: 72px;
+    margin: 72px;
+  }
+  
+  .counter-container {
+    height: 704px !important;
+    padding-right: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: absolute;
+    right: 0;
+    text-align: right;
+  }

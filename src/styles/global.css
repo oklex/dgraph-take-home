@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.container-abs {
+  position: absolute;
+}
+
+.button {
+  display: block;
+  padding: 15px;
+  border-radius: 4px;
+  background: linear-gradient(90deg, #ff4200 0%, #e50695 100%);
+  letter-spacing: 1.5px;
+
+  margin-left: 1em;
+}
+
+.arrow-icon {
+  display: inline;
+  padding-left: 8px;
+}
+
+#id {
+  background: #fafafa;
+}
+
+#index-btns {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding-top: 30vh;
+  padding-bottom: 10vh;
+}
+
+.notes-container {
+  display: flex;
+  justify-content: center;
+}
+
+.notes {
+  margin: 60px;
+  padding: 30px;
+  max-width: 400px;
+}

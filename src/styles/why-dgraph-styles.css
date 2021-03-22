@@ -1,0 +1,23 @@
+
+.why-text-box {
+    background-color: white;
+    width: 814px;
+    height: 483px;
+    padding: 72px;
+    margin: 72px;
+  }
+  
+  #why-hero-overlay-container {
+    position: absolute;
+    right: 0;
+  }
+  
+  #why-hero-overlay {
+    height: 704px !important;
+    object-fit: cover;
+  }
+  
+  #why-hero {
+    height: 704px;
+    background-color: #fafafa;
+  }
