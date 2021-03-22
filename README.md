@@ -2,7 +2,6 @@ This was a take-home assignment from Nathan.
 
 ## Working Assumptions made:
 - Only concerned about the desktop view
-- 
 
 ## Questions I have for the team/designer:
 - Which headings are header 1,2,3 or paragraph? This might affect SEO.
